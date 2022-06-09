@@ -1,0 +1,14 @@
+{
+    "storageAccount": "stg",
+    "appService": "app",
+    "resourceGroup": "rg",
+    "logicApp": "logic",
+    "connections": "con",
+    "serviceBus": "sb",
+    "serviceBusQueue": "sbq",
+    "serviceBusTopic": "sbt",
+    "serviceBusAuth": "sbauth",
+    "functionApp": "func",
+    "applicationInsights": "appi",
+    "connection": "con"
+}

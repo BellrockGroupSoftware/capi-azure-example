@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "capi-webhook-secret": "<insert-plain-text-secret-here>",
+    "capi-api-key": "<insert-api-key-here>",
+    "capi-api-secret": "<inser-api-key-secret-here>",
+    "capi-base-path": "<insert-base-path-here>",
+    "sas-capi-read-write": "<insert-service-bus-connection-string-here>"
+  }
+}
